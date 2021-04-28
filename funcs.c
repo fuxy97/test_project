@@ -22,3 +22,9 @@ void print_int(int value)
 			value); 
 }
 
+void print_float(float value)
+{
+	printf("Hello: %f\n", 
+			value); 
+}
+
