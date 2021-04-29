@@ -28,3 +28,9 @@ void print_float(float value)
 			value); 
 }
 
+void print_double(double value)
+{
+	printf("Hello: %lf\n", 
+			value); 
+}
+
