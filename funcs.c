@@ -34,3 +34,9 @@ void print_double(double value)
 			value); 
 }
 
+void print_uint(unsigned int value)
+{
+	printf("Hello: %u\n", 
+			value); 
+}
+
